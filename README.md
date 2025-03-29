@@ -1,1 +1,1 @@
-Programmi su tipi di numeri e operatori aritmetici
+Programmi su tipi di attributi e operatori aritmetici
